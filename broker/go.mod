@@ -4,7 +4,6 @@ go 1.21.5
 
 require (
 	github.com/confluentinc/confluent-kafka-go v1.9.2
-	github.com/gabrielrportugal/fullcycle-broker/go v0.0.0-20230808220559-98d6b54ce262
 	github.com/google/uuid v1.4.0
 	github.com/stretchr/testify v1.8.4
 )
